@@ -7,7 +7,7 @@ Performance Analysis and enhancement of DeepSC
 ## Requirements
 See the `requirements.txt` for the required python packages and run `pip install -r requirements.txt` to install them.
 ## Preprocess
-Use the dataset provided in Data folder or download Europarl dataset.
+Download Europarl dataset and use English texts.
 
 python preprocess_text.py
 ## Train
